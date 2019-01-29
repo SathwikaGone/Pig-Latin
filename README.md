@@ -28,6 +28,7 @@ out - outway<br>
 hello - ellohay<br>
 thing - ingthay<br>
 christmass - istmasschray<br>
+
 <p>Bonus:</p><br>
 • Change the properties (Size, Color, Font) of the text.<br>
 • Change the app name.<br>
