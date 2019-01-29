@@ -18,7 +18,7 @@ and find the pig latin equivalent and append the result to the text view. (Add
 a space so that the words don't run together.<br>
 
 <p>Pig Latin rules:</p> (Examples are given in the table.)<br>
-) If a word starts with vowel ( a, e, i, o, or u) , add "way" to the end of the
+1) If a word starts with vowel ( a, e, i, o, or u) , add "way" to the end of the
 word.<br>
 2) If the word starts with a consonant, take all the consonants up to but not
 including the first vowel and put them at the end of the word followed by
@@ -28,7 +28,7 @@ out - outway<br>
 hello - ellohay<br>
 thing - ingthay<br>
 christmass - istmasschray<br>
-Bonus:
+<p>Bonus:</p><br>
 • Change the properties (Size, Color, Font) of the text.<br>
 • Change the app name.<br>
 • Modify the pig latin generator to apply correctly to hyphenated words. (do
